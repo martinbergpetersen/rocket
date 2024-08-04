@@ -1,0 +1,11 @@
+{
+  "metadata": {
+    "channel": "193275a9-c9cf-404a-8f83-838e71d9ae67",
+    "messageNumber": 1,
+    "messageTime": "2022-02-02T19:39:05.86337+01:00",
+    "messageType": "RocketSpeedIncreased"
+  },
+  "message": {
+    "by": "1500"
+  }
+}
